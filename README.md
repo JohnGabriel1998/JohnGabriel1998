@@ -3,12 +3,10 @@
   <!-- Animated Wave Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20John%20Gabriel%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20Full-Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=50" />
   
-<!-- Advanced Typing Animation -->
-<div align="center">
+  <!-- Advanced Typing Animation -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E97F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+Welcome+to+John+Gabriel's+Profile!;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Things+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let's+Connect+and+Create+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
-</div>
   
   <!-- Profile Views & Followers -->
   <p align="center">
@@ -122,18 +120,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="24">
 </h2>
 
-<!-- Animated Activity Graph with Wave Effect -->
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnGabriel1998/JohnGabriel1998/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnGabriel1998/JohnGabriel1998/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JohnGabriel1998/JohnGabriel1998/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- 3D Contribution Calendar -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnGabriel1998&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnGabriel1998&theme=tokyo-night&bg_color=0d1117&color=00b3ff&line=00b3ff&point=00b3ff&area_color=1a1a1a&title_color=ffffff&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <!-- Animated Metrics -->
@@ -160,7 +149,7 @@
   <a href="https://twitter.com/johngabriel1998" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:johngabriel1998@github.com">
+  <a href="mailto:johncaganda0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://johngabriel1998.github.io" target="_blank">
@@ -181,11 +170,6 @@
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- Mario Pixel Art -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 </div>
 
 <!-- Footer -->
